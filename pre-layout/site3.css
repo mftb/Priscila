@@ -1,0 +1,301 @@
+/*** OUCE Base Stylesheet March 2008 ***/
+
+/*** Generics ***/
+/* The following may be overridden by site specific styles */
+	
+body {
+	color: #000;
+	background-color: #fff;
+	margin: 0;
+	/* font-family: 	bitstream vera sans, sans-serif; */
+	font-family: verdana, arial, helvetica, sans-serif, DejaVu Serif;
+	font-size: 16px; /* Changed 08/11/07 to try and solve the small font syndrome */
+	/* font-size: 80%; /* Note from thenoodleincident.com: 76% is as small as you can go and stay the same across browsers.*/ 
+	/* line-height: 1.45em; */
+	}
+
+html {
+	min-width: 774px;
+	}
+
+	
+/*** Default Images ***/
+img {
+	border: 0;
+	display: block;
+	}
+
+	
+/*** Default Typography ***/
+/* See: www.thenoodleincident.com/tutorials/typography/ and http://www.alistapart.com/stories/sizematters/ */
+
+h1, h2, h3, h4, h5, h6, ol, ul, dl, dt, dd, li, p, input, select, textarea {
+	font-family: verdana, arial, helvetica, sans-serif, DejaVu Serif;
+	}
+
+p {
+	margin-top: 0;
+	margin-bottom: 1em;
+	font-size: 1em;
+	text-align: left; /* Hack: to avoid IE6 randomly center align the text */
+	line-height: 1.50;
+	}
+	
+pre, code {
+	font-family: monospace; /* Hack: N.Navigator 4 requires this */
+	font-size: 1em;
+	}
+	
+strong, b {
+	font-weight: bold;
+	}
+
+/* Typography: Lists and Threads */
+dl, ol, ul, li {
+	/* list-style: none;*/
+	font-size: 1em;
+	line-height: 1.45;
+	}
+
+/* Typography: Headings */
+h1 {
+	font-size: 150%;
+	font-weight: bold;
+	margin: 0;
+	}
+h2 {
+	font-size: 120%;
+	font-weight: bold;
+	margin: 0;
+	}
+h3 {
+	font-size: 100%;
+	font-weight: bold;
+	margin: 0;
+	}
+h4 {
+	font-size: 80%;
+	font-weight: bold;
+	margin: 0;
+	}
+h5 {
+	font-size: 70%;
+	font-weight: bold;
+	margin: 0;
+	}
+h6 {
+	font-size: 64%;
+	font-weight: bold;
+	margin: 0;
+	}
+
+/* Typography: Links */
+a:link {
+	}
+a:visited {
+	color: #609;
+	background-color: inherit;
+	}
+a:hover, a:active, a:focus {
+	color: #f00;
+	background-color: inherit;
+	}
+	
+	
+/* Iconic links */
+a.external {display: inline; background: url(/shared/i/icons/external-link.gif) right center no-repeat; border: 0; margin: 0; padding: 2px 16px 2px 0;}
+
+a.audio {display: inline; background: url(/shared/i/icons/win-media.png) right center no-repeat; border: 0; margin: 0; padding: 2px 16px 2px 0;}
+
+a.question {display: inline; background: url(/shared/i/icons/question.gif) right center no-repeat; border: 0; margin: 0; padding: 2px 18px 2px 0px; color: #565656 !important; background-color: inherit; text-decoration: none !important; font-size: 0.8em !important;}
+
+a.pdf {display: inline; background: url(/shared/i/icons/pdf.gif) right center no-repeat; border: 0; margin: 0; padding: 2px 16px 2px 0;}
+
+/* a.pdf {display: inline; background: url(/shared/i/icons/pdf.gif) left center no-repeat; border: 0; margin: 0; padding: 2px 0px 2px 18px; color: #565656; background-color: inherit; text-decoration: none; font-size: 0.8em;} */
+
+a.ms-word {display: inline; background: url(/shared/i/icons/ms-word.gif) right center no-repeat; border: 0; margin: 0; padding: 2px 18px 2px 0px;}
+
+a.ms-xls {display: inline; background: url(/shared/i/icons/ms-excel.gif) right center no-repeat; border: 0; margin: 0; padding: 2px 18px 2px 0px;}
+
+a.ms-excel {display: inline; background: url(/shared/i/icons/ms-excel.gif) right center no-repeat; border: 0; margin: 0; padding: 2px 18px 2px 0px;}
+
+a.ms-access {display: inline; background: url(/shared/i/icons/ms-access.gif) right center no-repeat; border: 0; margin: 0; padding: 2px 18px 2px 0px;}
+
+a.ms-ppt {display: inline; background: url(/shared/i/icons/ms-ppt.gif) right center no-repeat; border: 0; margin: 0; padding: 2px 18px 2px 0px;}
+
+a.email {display: inline; background: url(/shared/i/icons/email.gif) right center no-repeat; border: 0; margin: 0; padding: 2px 18px 2px 0px;}
+
+a.rss {display: inline; background: url(/shared/i/icons/rss.gif) right center no-repeat; border: 0; margin: 0; padding: 2px 18px 2px 0px;}
+
+a.itunes {display: inline; background: url(/shared/i/icons/itunes.gif) right center no-repeat; border: 0; margin: 0; padding: 2px 58px 2px 0px;}
+
+
+
+/* Typography: Visibility */
+.hide {display: none;}
+
+
+/* Acronyms, Abbreviations and Definitions */
+acronym, abbr, defn {cursor: help; border-bottom: 1px dotted #567;} 
+
+
+/*** Tables ***/
+th {font-weight: bold; text-align: left;}
+
+
+/*** Global Header & Footer Styles ***/
+
+/** Global Header **/
+#global {
+	min-width: 720px;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	border-bottom: 1px solid #666;
+	color: #fff;
+	background-color: #002147;
+	}
+
+#global h1 {
+	position: relative;
+	margin: 0 0 0 4px;
+	padding: 0;
+	border: 0;
+	font-size: 1em;
+	font-weight: normal;
+	vertical-align: middle;
+	height: 24px;
+	overflow: hidden;
+	}
+
+#global a, #global a:visited, #global a:hover {
+	color: #fff;
+	background-color: inherit;
+	text-decoration: none;
+	}
+
+/* #global h1 a {
+	/* letter-spacing: -1px;
+	position: relative;
+	display: block;
+	margin: 2px 0 0 0;
+	padding: 0 0 0 6px;
+	vertical-align: middle;
+	} */
+	
+#global span {
+	background: url(/shared/i/soge-masthead.png) no-repeat;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	}
+	
+/* #global a.logo {
+	clear: left;
+	float: left;
+	display: block;
+	width: 22px;
+	height: 20px;
+	margin: 2px 0 0 4px;
+	padding: 0;
+	border: 0;
+	font-weight: bold;
+	}
+
+#global a.logo img {
+	width: 22px;
+	height: 20px;
+	} */
+	
+
+/* Global Search Styles */
+#global-search {
+	position: relative;
+	float: right;
+	margin: 2px 2px 0 0;
+	padding: 0;
+	border: 0;
+	font-size: 0.75em;
+	}
+
+#global-search p {	
+	display: inline;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	}
+	
+#global-input-search {
+	margin: 1px 0 0 0;
+	padding: 2px;
+	border: 0;
+	font-size: 0.9em;
+	color: #565656;
+	background-color: #fff;
+}
+	
+#global-search-go {
+	cursor: pointer;
+	color: #002417;
+	background-color: #cfdbec;
+	margin: 0 4px;
+	padding: 0px 2px;
+	font-size: 0.85em;
+	font-weight: bold;
+	border: 1px solid #fff;
+	-moz-border-radius-topleft: 2px;
+	-webkit-border-top-left-radius: 2px;
+	-moz-border-radius-topright: 2px;
+	-webkit-border-top-right-radius: 2px;
+	-moz-border-radius-bottomleft: 2px;
+	-webkit-border-bottom-left-radius: 2px;
+	-moz-border-radius-bottomright: 2px;
+	-webkit-border-bottom-right-radius: 2px;
+	border-radius: 2px 2px 2px 2px;
+	/* -webkit-box-shadow: 2px 2px 1px #999;
+	-moz-box-shadow: 2px 2px 1px #999;
+	box-shadow: 2px 2px 2px #999; */
+	
+	}
+	
+/** Test Header Styles **/
+#test-header {
+	margin: 0;
+	padding: 2px 4px 4px 4px;
+	border: 0;
+	/* border: 1px solid #f00; */
+	color: inherit;
+	background-color: #fdd;
+	text-align: center;
+	}
+	
+#test-header p {
+	display: inline;
+	font-size: 0.75em;
+	}
+
+/** Global Footer **/
+#footer {
+	clear: both;
+	bottom: 0;
+	left: 0;
+	margin: 0;
+	padding: 2px;
+	background-color: inherit;
+	color: #333;	
+	font-size: 0.6em;
+	}
+
+#footer p {
+	margin: 0;
+	padding: 2px;
+	}
+	
+#footer a, #footer a:visited, #footer a:hover {
+	background: inherit;
+	color: #333;	
+	text-decoration: none;
+	font-weight: bold;
+	margin: 0;
+	padding: 0;
+	}
