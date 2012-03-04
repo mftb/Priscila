@@ -15,9 +15,9 @@
             <div id="nav">
                 <!-- menu -->
                 <ul>
-                    <li style="background:#0b087c;"><a style="color:#ffffff;" href="index.php" title="Home">Home</a></li>
+                    <li style="background:#0b087c;"><a style="color:#ffffff;" href="index.php" title="Apresentação">Apresentação</a></li>
                     <li><a href="sumario.php" title="Sumário Executivo">Sumário Executivo</a></li>
-                    <li><a href="associadas.php" title="Pesquisas Associadas">Pesquisas Associadas</a></li>
+                    <li><a href="associadas.php" title="Pesquisas Semelhantes">Pesquisas Semelhantes</a></li>
                     <li><a href="links.php" title="Links">Links</a></li>
                     <li><a href="contato.php" title="Contato">Contato</a></li>
                 </ul>
@@ -29,9 +29,7 @@
                 <p>Sed voluptate kielbasa, leberkas bresaola eu drumstick in strip steak ea ball tip qui. Ex incididunt corned beef, anim excepteur nostrud short ribs strip steak t-bone tongue bacon laboris.</p>
                 <br />
                 <div id="home_img"><img src="new_home_img.png" /></div>
-                <br />
             </div>
-            <div id="contentfooter"></div>
             <div id="footer">
                 <p>Copyright &copy; 2012 &#124; Contact <a href="mailto:matheusboy.mbs@gmail.com" title="Email: Webmaster">Webmaster</a></p>
             </div>

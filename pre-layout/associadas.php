@@ -15,9 +15,9 @@
             <div id="nav">
                 <!-- menu -->
                 <ul>
-                    <li><a href="index.php" title="Home">Home</a></li>
+                    <li><a href="index.php" title="Apresentação">Apresentação</a></li>
                     <li><a href="sumario.php" title="Sumário Executivo">Sumário Executivo</a></li>
-                    <li style="background:#0b087c;"><a style="color:#ffffff;" href="associadas.php" title="Pesquisas Associadas">Pesquisas Associadas</a></li>
+                    <li style="background:#0b087c;"><a style="color:#ffffff;" href="associadas.php" title="Pesquisas Semelhantes">Pesquisas Semelhantes</a></li>
                     <li><a href="links.php" title="Links">Links</a></li>
                     <li><a href="contato.php" title="Contato">Contato</a></li>
                 </ul>
@@ -31,7 +31,6 @@
                     <p>Thornyhead combfish ground shark eeltail catfish southern Dolly Varden European chub; carp paradise fish, deepwater cardinalfish! Eel New Zealand smelt whitebait pickerel. </p>
                     <p>Angler catfish, electric stargazer molly fusilier fish tenpounder orange roughy bristlemouth. </p>
                     <p>Aute ut hamburger, officia magna ham hock meatloaf ut ea beef. </p>
-                    <p><a href="http://baconipsum.com">Bacon ipsum dolor sit amet t-bone</a></p>
                 </div>
                 <br />
                 <br />
@@ -40,7 +39,6 @@
                     <img src="ph3.jpg" />
                     <p>Bacon ipsum dolor sit amet t-bone ball tip commodo, fugiat laborum eiusmod in in ham shank do sunt andouille ut. Corned beef consequat bacon, tempor nisi tenderloin cow swine deserunt ad filet mignon irure cillum. Meatloaf ribeye velit, sed ham shank pig. Irure commodo pork chop velit, duis meatball do exercitation et. </p>
                     <p>Duis ut laborum, sed ut andouille cillum enim prosciutto hamburger. Nostrud beef ribs shankle capicola brisket, do sirloin sausage. Cupidatat sed proident capicola. Dolore qui fugiat, do veniam ut filet mignon. </p>
-                    <p><a href="http://tunaipsum.com">Fingerfish flashlight fish Black angelfish</a></p>
                 </div>
             </div>
             <div id="footer">

@@ -15,9 +15,9 @@
             <div id="nav">
                 <!-- menu -->
                 <ul>
-                    <li><a href="index.php" title="Home">Home</a></li>
+                    <li><a href="index.php" title="Apresentação">Apresentação</a></li>
                     <li><a href="sumario.php" title="Sumário Executivo">Sumário Executivo</a></li>
-                    <li><a href="associadas.php" title="Pesquisas Associadas">Pesquisas Associadas</a></li>
+                    <li><a href="associadas.php" title="Pesquisas Semelhantes">Pesquisas Semelhantes</a></li>
                     <li><a href="links.php" title="Links">Links</a></li>
                     <li style="background:#0b087c;"><a style="color:#ffffff;" href="contato.php" title="Contato">Contato</a></li>
                 </ul>
