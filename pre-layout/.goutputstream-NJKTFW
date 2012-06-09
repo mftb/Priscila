@@ -16,23 +16,17 @@
                 <!-- menu -->
                 <ul>
                     <li><a href="index.php" title="Apresentação">Apresentação</a></li>
-                    <li><a href="sumario.php" title="Sumário Executivo">Sumário Executivo</a></li>
+                    <li style="background:#0b087c;"><a style="color:#ffffff;" href="sumario.php" title="Sumário Executivo">Sumário Executivo</a></li>
                     <li><a href="associadas.php" title="Pesquisas Semelhantes">Pesquisas Semelhantes</a></li>
-                    <li style="background:#0b087c;"><a style="color:#ffffff;" href="links.php" title="Links">Links</a></li>
+                    <li><a href="links.php" title="Links">Links</a></li>
                     <li><a href="contato.php" title="Contato">Contato</a></li>
                 </ul>
             </div>
             <hr id="linha_menu" noshade="noshade" />
             <div id="content">
                 <br />
-                <p>Black malt hard cider hard cider mouthfeel mead terminal gravity crystal malt shelf life. Lauter tun aerobic, craft beer grainy pitch fermentation.</p>
-                <p><a href="http://baconipsum.com">Bacon ipsum</a><p>
-                <p><a href="http://tunaipsum.com">Tuna ipsum</a><p>
-                <p><a href="http://beeripsum.com">Beer ipsum</a><p>
-            </div>
-            <div id="footer">
-                <p>Copyright &copy; 2012 &#124; Contact <a href="mailto:matheusboy.mbs@gmail.com" title="Email: Webmaster">Webmaster</a></p>
-            </div>
-        </div>
-    </body>
-</html>
+                <h1>O financiamento climático sob a ótica da justiça ambiental global: três casos brasileiros</h1>
+                <p>Para identificar todas as concessões de financiamento climático que os países
+doadores declararam ter dirigido ao Brasil durante o período escolhido
+(1998 - 2008), conduzimos uma busca cruzada entre os bancos de dados da
+Organização para a Cooperação e o Desenvolvimento Econômico 

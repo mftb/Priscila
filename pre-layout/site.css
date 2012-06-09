@@ -142,6 +142,16 @@ a img { border-style:none; }
 .column p{font-size:0.70em;font-family:verdana; line-height:1.45em; border-bottom:1px solid #ccc; padding:3px 0 8px 0;}
 .colresearch { width:210px;border:1px solid #ccc;-moz-border-radius-bottomleft: 5px;-moz-border-radius-topright: 5px;-moz-border-radius-bottomright: 5px;-moz-border-radius-topleft:5px; padding:5px; margin:0 0 4px 0;color:#fff; background-color:#1086af;}
 
+ul.contato{
+	margin-top: 0;
+	margin-left: 40px;
+	margin-bottom: 1em;
+	font-size: 0.8em;
+	text-align: left; /* Hack: to avoid IE6 randomly center align the text */
+	line-height: 1.50;
+	color: #474a4e;
+    font-family: verdana;	
+	}
 
 #col1 {float:left; width:62%; margin:0;}
 #col3 {float:auto; margin:0 0 0 36%;}

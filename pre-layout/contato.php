@@ -18,7 +18,6 @@
                     <li><a href="index.php" title="Apresentação">Apresentação</a></li>
                     <li><a href="sumario.php" title="Sumário Executivo">Sumário Executivo</a></li>
                     <li><a href="associadas.php" title="Pesquisas Semelhantes">Pesquisas Semelhantes</a></li>
-                    <li><a href="bd.php" title="Base de Dados">Base de Dados</a></li>
                     <li><a href="links.php" title="Links">Links</a></li>
                     <li style="background:#0b087c;"><a style="color:#ffffff;" href="contato.php" title="Contato">Contato</a></li>
                 </ul>
@@ -26,8 +25,18 @@
             <hr id="linha_menu" noshade="noshade" />
             <div id="content">
                 <br />
-                <p>Bacon ipsum dolor sit amet t-bone ball tip commodo, fugiat laborum eiusmod in in ham shank do sunt andouille ut. Corned beef consequat bacon, tempor nisi tenderloin cow swine deserunt ad filet mignon irure cillum. Meatloaf ribeye velit, sed ham shank pig. Irure commodo pork chop velit, duis meatball do exercitation et. Officia minim mollit, corned beef tempor veniam id shoulder swine bresaola.<p>
-                <p>Duis ut laborum, sed ut andouille cillum enim prosciutto hamburger. Nostrud beef ribs shankle capicola brisket, do sirloin sausage. Cupidatat sed proident capicola. Beef strip steak kielbasa ullamco, do ut dolore aliqua tri-tip pancetta adipisicing est pastrami veniam salami.</p>
+                <p>Caso você tenha interesse em obter maiores informações sobre a pesquisa, ou queira trocar ideias sobre:</p>
+                <p>
+                <ul class="contato">
+                    <li>Cooperação para o desenvolvimento</li>
+                    <li>Cooperação Norte-Sul</li>
+                    <li>Cooperação Sul-Sul</li>
+                    <li>Ecologia Política</li>
+                    <li>Justiça Ambiental Global</li>
+                    <li>Financiamento Climático</li>
+                </ul>
+                </p>
+                <p>por favor, entre em contato através do e-mail mpriscilla <i>at</i> gmail <i>dot</i> com</p>
             </div>
             <div id="footer">
                 <p>Copyright &copy; 2012 &#124; Contact <a href="mailto:matheusboy.mbs@gmail.com" title="Email: Webmaster">Webmaster</a></p>

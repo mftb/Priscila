@@ -16,9 +16,8 @@
                 <!-- menu -->
                 <ul>
                     <li><a href="index.php" title="Apresentação">Apresentação</a></li>
-                    <li><a href="sumario.php" title="Sumário Executivo">Sumário Executivo</a></li>
+                    <li style="background:#0b087c;"><a style="color:#ffffff;" href="sumario.php" title="Sumário Executivo">Sumário Executivo</a></li>
                     <li><a href="associadas.php" title="Pesquisas Semelhantes">Pesquisas Semelhantes</a></li>
-                    <li style="background:#0b087c;"><a href="bd.php" style="color:#ffffff;" title="Base de Dados">Base de Dados</a></li>
                     <li><a href="links.php" title="Links">Links</a></li>
                     <li><a href="contato.php" title="Contato">Contato</a></li>
                 </ul>
@@ -57,7 +56,6 @@
                         <th>Year </th>
                         <th>Donor </th>
                         <th>Title </th>
-                        <th>Cost (USD) </th>
                     </tr>
 
                 <?php
@@ -71,15 +69,11 @@
                         $year  =  pg_result($result,$i, 1);        
                         $donor =  pg_result($result,$i,4);
                         $title =  pg_result($result,$i,18);
-                        $cost  =  pg_result($result,$i,12);
                         echo "<tr>";
                         echo "<td>$ord</td>";
                         echo "<td>$year</td>";
                         echo "<td>$donor</td>";
-                        echo "<td><a href=\"detail.php?id=$id\"/a>$title</td>";
-                        echo "<td>"; 
-                        echo $cost ;           
-                        echo "</td>"; 
+                        echo "<td><a href=\"detail.php?id=$id\"/a>$title</td>"; 
                         echo "</tr>";
                         $i++;
                     }        
@@ -89,7 +83,6 @@
                 
                 <?php
                     setlocale(LC_MONETARY, 'pt_BR');
-                    echo $num ;   
                     // free memory
                     pg_free_result($result);       
                     // close connection

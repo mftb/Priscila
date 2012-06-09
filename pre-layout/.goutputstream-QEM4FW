@@ -1,0 +1,65 @@
+<html>
+    <head>
+        <title>Pesquisa</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=ISO-8859-1" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <link rel="stylesheet" href="site.css" media="all" type="text/css" />
+    </head>
+    <!-- aqui viria o resto da página, layout fortemente insparado em http://www.eci.ox.ac.uk/index.php -->
+    <body>
+        <div id="container">
+            <div id="header">
+                <!-- "cabeçalho do site" -->
+                <a href="index.php"><img src="img.png" /></a>
+            </div>
+            <div id="nav">
+                <!-- menu -->
+                <ul>
+                    <li><a href="index.php" title="Apresentação">Apresentação</a></li>
+                    <li style="background:#0b087c;"><a style="color:#ffffff;" href="sumario.php" title="Sumário Executivo">Sumário Executivo</a></li>
+                    <li><a href="associadas.php" title="Pesquisas Semelhantes">Pesquisas Semelhantes</a></li>
+                    <li><a href="links.php" title="Links">Links</a></li>
+                    <li><a href="contato.php" title="Contato">Contato</a></li>
+                </ul>
+            </div>
+            <hr id="linha_menu" noshade="noshade" />
+            <div id="content">
+                <br />
+                <!-- caixinhas de conteúdo -->
+                <div id="contenttop">
+                    <h2>Resumo</h2>
+                    <p>A pesquisa procura identificar as principais tendências da ajuda oficial ao
+desenvolvimento (AOD) que tem sido destinada aos países do chamado Terceiro
+Mundo para fazer frente à crise ambiental contemporânea e, mais especificamente,
+às mudanças climáticas. Para isso, optamos por adotar uma perspectiva crítica e
+multidisciplinar, ancorada nos estudos sobre cooperação internacional, ecologia
+política e justiça ambiental global.</p>
+                    <p>Buscamos averiguar em que medida a modalidade de auxílio em questão reflete, ou
+não, a tradicional assimetria de poder e de interesses existente na cooperação oficial
+Norte-Sul, e se acaso tende a repetir, também no que toca à problemática do clima,
+os problemas e desigualdades de costume.</p>
+                    <p>O trabalho foi realizado entre março/2010 e março/2012. As informações foram
+coletadas de fontes primárias e secundárias (bancos de dados, artigos, <i>websites</i>,
+entrevistas, documentos oficiais, correspondências, etc), e a análise e discussão
+subsequentes resultaram num texto de cerca de 120 páginas, o qual está dividido em
+quatro partes, ou seções.</p>
+                    <p><a href="sumario_resumo.php">Leia mais</a></p>
+                </div>
+                <br />
+                <br />
+                <div id="contenttop">
+                    <h2>Pivôs conceituais</h2>
+                    <p>A partir da década de 1990, as estratégias de ajuda ao desenvolvimento adotadas
+pelos principais países doadores passaram por um importante processo de
+redefinição, processo este impulsionado por mudanças radicais na economia e na
+geopolítica globais. Dentre os novos discursos que passaram a circular no campo
+da cooperação Norte-Sul, ganhou especial relevo o paradigma do desenvolvimento
+sustentável, apresentado pelos atores dominantes como uma abordagem
+conciliatória que, ao mesmo tempo em que promove o desenvolvimento econômico,
+é igualmente capaz de responder à crescente crise ambiental. Por volta dessa mesma
+época, questões relativas às aparentes alterações no clima terrestre também tiveram
+seu lugar consolidado na agenda política internacional.</p>
+                    <p><a href="sumario_pivots.php">Leia mais</a></p>
+                </div>
+                <div id="contenttop">
+                    <h2>Pivôs conceituais (continuação, logo depois do 

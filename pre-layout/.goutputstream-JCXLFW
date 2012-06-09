@@ -1,0 +1,65 @@
+<html>
+    <head>
+        <title>Pesquisa</title>
+        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=ISO-8859-1" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <link rel="stylesheet" href="site.css" media="all" type="text/css" />
+    </head>
+    <!-- aqui viria o resto da página, layout fortemente insparado em http://www.eci.ox.ac.uk/index.php -->
+    <body>
+        <div id="container">
+            <div id="header">
+                <!-- "cabeçalho do site" -->
+                <a href="index.php"><img src="img.png" /></a>
+            </div>
+            <div id="nav">
+                <!-- menu -->
+                <ul>
+                    <li><a href="index.php" title="Apresentação">Apresentação</a></li>
+                    <li><a href="sumario.php" title="Sumário Executivo">Sumário Executivo</a></li>
+                    <li style="background:#0b087c;"><a style="color:#ffffff;" href="associadas.php" title="Pesquisas Semelhantes">Pesquisas Semelhantes</a></li>
+                    <li><a href="links.php" title="Links">Links</a></li>
+                    <li><a href="contato.php" title="Contato">Contato</a></li>
+                </ul>
+            </div>
+            <hr id="linha_menu" noshade="noshade" />
+            <div id="content">
+                <br />
+                <div id="contenttop">
+                    <h2><a href="http://www.sciencedirect.com/science/article/pii/S0305750X1100204X">More dollars than sense: refining our knowledge of development finance using AidData</a></h2>
+                    <p>Michael J. Tierney, Daniel L. Nielson, Darren G. Hawkins, J. Timmons Roberts, Michael G. Findley, Ryan M. Powers, Bradley Parks, Sven E. Wilson e Robert L. Hicks (Nov. 2011)</p>
+                    <p>Neste ensaio, os autores apresentam um novo banco de dados sobre ajuda
+oficial ao desenvolvimento (AOD), intitulado AidData, o qual contempla maior número de
+doadores bilaterais e multilaterais do que os outros bancos de dados já existentes, ao mesmo
+tempo em que aprofunda informações, no nível dos projetos, sobre os objetivos e atividades
+que são financiados pela ajuda externa. Estes dados são utilizados para oferecer uma visão
+geral de certas tendências importantes na cooperação internacional. Alguns dos temas
+discutidos são: transparência, "novos doadores" (não descritos ou analisados previamente),
+alocação e eficácia da ajuda externa. A tese do artigo é que as pesquisas atualmente
+conduzidas com o auxílio do AidData vêm refinar, ao invés de revolucionar, a compreensão
+deste campo. Os autores consideram que atualmente os debates sobre AOD são respaldados
+por pouca informação, e que as afirmações feitas tendem a basear-se em evidências muito
+limitadas ou fracas. A ajuda externa não é uma solução simples, mas tampouco é causa
+suficiente da maioria dos problemas dos países em desenvolvimento; suas motivações, sua
+distribuição e seus efeitos são complexos e cambiantes. Capturar essa complexidade requer
+conjuntos de dados bem detalhados, análise rigorosa e métodos sofisticados, que permitam
+aos pesquisadores realizar inferências causais e descritivas sobre os fenômenos estudados.</p>
+                </div>
+                <br />
+                <br />
+                <div id="contenttop">
+                    <h2><a href="http://www.tandfonline.com/doi/abs/10.3200/ENVT.51.1.8-21">Has foreign aid been greened?<a></h2>
+                    <img src="ph3.jpg" />
+                    <p>Os países em desenvolvimento afirmam que não podem, e não devem , arcar com os
+custos envolvidos na proteção ambiental, uma vez que as nações industrializadas só puderam
+alcançar altos padrões de vida graças a um longo processo de industrialização intensivo
+em recursos naturais e destruidor do meio ambiente - e que agora teria chegado a vez dos
+países do Sul global seguirem essa via, ao industrializarem-se também. Durante a Rio-92, os
+países ricos comprometeram-se a aumentar substancialmente seus aportes destinados à
+cooperação ambiental (green aid) nos países pobres; estes últimos temiam, entretanto, que
+um incremento nessa área acabasse por suplantar a ajuda externa direcionada às necessidades
+humanas básicas e ao desenvolvimento econômico, tidos como mais prementes. Considerando
+que as promessas de "ajuda verde" são sistematicamente reiteradas, cabe perguntar em que
+medida os países doadores têm efetivamente honrado os compromissos que assumiram.
+Até que ponto as agências bilaterais, os organismos multilaterais e os bancos regionais de
+fomento efetivamente 

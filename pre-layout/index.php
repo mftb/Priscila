@@ -18,7 +18,6 @@
                     <li style="background:#0b087c;"><a style="color:#ffffff;" href="index.php" title="Apresentação">Apresentação</a></li>
                     <li><a href="sumario.php" title="Sumário Executivo">Sumário Executivo</a></li>
                     <li><a href="associadas.php" title="Pesquisas Semelhantes">Pesquisas Semelhantes</a></li>
-                    <li><a href="bd.php" title="Base de Dados">Base de Dados</a></li>
                     <li><a href="links.php" title="Links">Links</a></li>
                     <li><a href="contato.php" title="Contato">Contato</a></li>
                 </ul>
@@ -26,8 +25,7 @@
             <hr id="linha_menu" noshade="noshade" />
             <div id="content">
                 <br />
-                <p>Bacon ipsum dolor sit amet sunt ad ribeye et, duis jowl nostrud chuck. Salami laborum pork belly incididunt ut beef ribs.<p>
-                <p>Sed voluptate kielbasa, leberkas bresaola eu drumstick in strip steak ea ball tip qui. Ex incididunt corned beef, anim excepteur nostrud short ribs strip steak t-bone tongue bacon laboris.</p>
+                <p>Este trabalho faz parte de uma pesquisa de pós-doutorado, financiada pela FAPESP, cujo objetivo era analisar as principais tendências da ajuda externa ao desenvolvimento dirigida aos países do chamado Terceiro Mundo para fazer frente à crise ambiental contemporânea - e, mais especificamente, às mudanças climáticas.</p>
                 <br />
                 <div id="home_img"><img src="new_home_img.png" /></div>
             </div>

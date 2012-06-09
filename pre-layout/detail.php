@@ -16,9 +16,8 @@
                 <!-- menu -->
                 <ul>
                     <li><a href="index.php" title="Apresentação">Apresentação</a></li>
-                    <li><a href="sumario.php" title="Sumário Executivo">Sumário Executivo</a></li>
+                    <li style="background:#0b087c;"><a style="color:#ffffff;" href="sumario.php" title="Sumário Executivo">Sumário Executivo</a></li>
                     <li><a href="associadas.php" title="Pesquisas Semelhantes">Pesquisas Semelhantes</a></li>
-                    <li style="background:#0b087c;"><a href="bd.php" style="color:#ffffff;" title="Base de Dados">Base de Dados</a></li>
                     <li><a href="links.php" title="Links">Links</a></li>
                     <li><a href="contato.php" title="Contato">Contato</a></li>
                 </ul>
