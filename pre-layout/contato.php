@@ -5,7 +5,6 @@
         <meta http-equiv="Content-Style-Type" content="text/css" />
         <link rel="stylesheet" href="site.css" media="all" type="text/css" />
     </head>
-    <!-- aqui viria o resto da página, layout fortemente insparado em http://www.eci.ox.ac.uk/index.php -->
     <body>
         <div id="container">
             <div id="header">
