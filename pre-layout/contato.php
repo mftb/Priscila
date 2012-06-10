@@ -24,7 +24,10 @@
             <hr id="linha_menu" noshade="noshade" />
             <div id="content">
                 <br />
-                <p>Caso você tenha interesse em obter maiores informações sobre a pesquisa, ou queira trocar ideias sobre:</p>
+                <div id="contenttop">
+                <img src="priscila.jpg" />
+                <p>Esta pesquisa foi realizada por <a href="http://lattes.cnpq.br/0133016008589420">Maria Priscilla Kreitlon.</a></p>
+                <p>Caso você tenha interesse em obter maiores informações, ou queira trocar ideias sobre:</p>
                 <p>
                 <ul class="contato">
                     <li>Cooperação para o desenvolvimento</li>
@@ -36,6 +39,7 @@
                 </ul>
                 </p>
                 <p>por favor, entre em contato através do e-mail mpriscilla <i>at</i> gmail <i>dot</i> com</p>
+                </div>
             </div>
             <div id="footer">
                 <p>Copyright &copy; 2012 &#124; Contact <a href="mailto:matheusboy.mbs@gmail.com" title="Email: Webmaster">Webmaster</a></p>

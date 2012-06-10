@@ -27,6 +27,7 @@
                 <!-- caixinhas de conteúdo -->
                 <div id="contenttop">
                     <h2>Resumo</h2>
+                    <img src="mitigacao1.jpg" />
                     <p>A pesquisa procura identificar as principais tendências da ajuda oficial ao
 desenvolvimento (AOD) que tem sido destinada aos países do chamado Terceiro
 Mundo para fazer frente à crise ambiental contemporânea e, mais especificamente,
@@ -48,6 +49,7 @@ quatro partes, ou seções.</p>
                 <br />
                 <div id="contenttop">
                     <h2>Pivôs conceituais</h2>
+                    <img src="system_change.jpg" />
                     <p>A partir da década de 1990, as estratégias de ajuda ao desenvolvimento adotadas
 pelos principais países doadores passaram por um importante processo de
 redefinição, processo este impulsionado por mudanças radicais na economia e na
@@ -59,11 +61,6 @@ conciliatória que, ao mesmo tempo em que promove o desenvolvimento econômico,
 época, questões relativas às aparentes alterações no clima terrestre também tiveram
 seu lugar consolidado na agenda política internacional.</p>
                     <p><a href="sumario_pivots.php">Leia mais</a></p>
-                </div>
-                <br />
-                <br />
-                <div id="contenttop">
-                    <h2>Pivôs conceituais (continuação, logo depois do "Leia mais" anterior)</h2>
                     <p>Sendo assim, na primeira parte do trabalho, além de situar a problemática, e de
 proceder a um recorte que demarca os propósitos da pesquisa, apresentamos
 também, em grandes linhas, as perspectivas teóricas e as categorias analíticas que
@@ -76,6 +73,7 @@ torna-se objeto de uma breve incursão introdutória.</p>
                 <br />
                 <div id="contenttop">
                     <h2>A cooperação internacional para o desenvolvimento: percursos e controvérsias</h2>
+                    <img src="usaid.jpg" />
                     <p>Nesta segunda seção, revisitamos os principais rumos e percalços dos discursos
 contemporâneos sobre cooperação internacional e desenvolvimento, originados
 após a Segunda Guerra Mundial, e buscamos demonstrar o formidável descolamento
@@ -90,6 +88,7 @@ interrogados, e colocados em disputa por outros atores do campo.</p>
                 <br />
                 <div id="contenttop">
                     <h2>A cooperação Norte-Sul na esfera ambiental: belas (e evasivas) promessas</h2>
+                    <img src="mumbai_waste_beach.jpg" />
                     <p>Na terceira seção, situamos a questão do financiamento climático no âmbito
 da cooperação Norte-Sul para o meio ambiente, e oferecemos uma síntese
 dos principais problemas que têm sido apontados neste tipo de intercâmbio
@@ -112,6 +111,7 @@ adequadamente monitoradas, reportadas e verificadas.</p>
                 <br />
                 <div id="contenttop">
                     <h2>O financiamento climático sob a ótica da justiça ambiental global: três casos brasileiros</h2>
+                    <img src="environment_x_economy.jpg" />
                     <p>Na quarta e última parte, o trabalho traça um perfil de três iniciativas de
 financiamento climático implementadas no Brasil, segundo informações oficiais
 disponíveis em bancos de dados especializados, no período compreendido entre

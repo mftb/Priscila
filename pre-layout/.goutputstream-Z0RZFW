@@ -14,27 +14,16 @@
             <div id="nav">
                 <!-- menu -->
                 <ul>
-                    <li style="background:#0b087c;"><a style="color:#ffffff;" href="index.php" title="Apresentação">Apresentação</a></li>
+                    <li><a href="index.php" title="Apresentação">Apresentação</a></li>
                     <li><a href="sumario.php" title="Sumário Executivo">Sumário Executivo</a></li>
                     <li><a href="associadas.php" title="Pesquisas Semelhantes">Pesquisas Semelhantes</a></li>
-                    <li><a href="links.php" title="Links">Links</a></li>
+                    <li style="background:#0b087c;"><a style="color:#ffffff;" href="links.php" title="Links">Links</a></li>
                     <li><a href="contato.php" title="Contato">Contato</a></li>
                 </ul>
             </div>
             <hr id="linha_menu" noshade="noshade" />
             <div id="content">
                 <br />
-                <p style="text-align:center;">Este trabalho faz parte de uma pesquisa de pós-doutorado, realizada junto ao
-Departamento de Política Científica e Tecnológica da UNICAMP e financiada pela
-FAPESP. Nosso objetivo era analisar as principais tendências da ajuda externa ao
-desenvolvimento dirigida aos países do chamado Terceiro Mundo para fazer frente à
-crise ambiental contemporânea - e, mais especificamente, às mudanças climáticas.</p>
-                <br />
-                <div id="home_img"><img src="new_home_img.png" /></div>
-            </div>
-            <div id="footer">
-                <p>Copyright &copy; 2012 &#124; Contact <a href="mailto:matheusboy.mbs@gmail.com" title="Email: Webmaster">Webmaster</a></p>
-            </div>
-        </div>
-    </body>
-</html>
+                <p>Abaixo podem ser encontrados alguns endereços de websites úteis, relacionados aos assuntos abordados pela pesquisa.</p>
+                <p><a href="http://www.aiddata.org/content/index">AidData - Dados sobre cooperação para o desenvolvimento</a><p>
+                <p><a href="http://www.oecd.org/department/0,3355,en_2649_33721_1_1_1_1_1,00.html">OCDE 

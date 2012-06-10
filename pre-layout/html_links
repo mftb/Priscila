@@ -1,32 +1,3 @@
-<html>
-    <head>
-        <title>Pesquisa</title>
-        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=ISO-8859-1" />
-        <meta http-equiv="Content-Style-Type" content="text/css" />
-        <link rel="stylesheet" href="site.css" media="all" type="text/css" />
-    </head>
-    <body>
-        <div id="container">
-            <div id="header">
-                <!-- "cabeçalho do site" -->
-                <a href="index.php"><img src="img.png" /></a>
-            </div>
-            <div id="nav">
-                <!-- menu -->
-                <ul>
-                    <li><a href="index.php" title="Apresentação">Apresentação</a></li>
-                    <li><a href="sumario.php" title="Sumário Executivo">Sumário Executivo</a></li>
-                    <li><a href="associadas.php" title="Pesquisas Semelhantes">Pesquisas Semelhantes</a></li>
-                    <li style="background:#0b087c;"><a style="color:#ffffff;" href="links.php" title="Links">Links</a></li>
-                    <li><a href="contato.php" title="Contato">Contato</a></li>
-                </ul>
-            </div>
-            <hr id="linha_menu" noshade="noshade" />
-            <div id="content">
-                <br />
-                <p>Abaixo podem ser encontrados alguns endereços de websites úteis, relacionados aos assuntos abordados pela pesquisa.</p>
-                <p><a href="http://www.aiddata.org/content/index">AidData - Dados sobre cooperação para o desenvolvimento</a><p>
-                <p><a href="http://www.oecd.org/department/0,3355,en_2649_33721_1_1_1_1_1,00.html">OCDE - Diretoria de Cooperação para o Desenvolvimento</a><p>
                 <p><a href="http://www.abc.gov.br/">ABC - Agência Brasileira de Cooperação</a><p>
                 <p><a href="http://www.mma.gov.br/">Ministério do Meio Ambiente</a><p>
                 <p><a href="http://www.mcti.gov.br/#tlt">Ministério da Ciência, Tecnologia e Inovação</a><p>
@@ -56,10 +27,3 @@
                 <p><a href="http://www.ipam.org.br/">Instituto de Pesquisa Ambiental da Amazônia</a><p>
                 <p><a href="http://www.uea.ac.uk/dev/global-environmental-justice">University of East Anglia - Global Environmental Justice</a><p>
                 <p><a href="http://www.eci.ox.ac.uk/index.php">University of Oxford - Environmental Change Institute</a><p>
-            </div>
-            <div id="footer">
-                <p>Copyright &copy; 2012 &#124; Contact <a href="mailto:matheusboy.mbs@gmail.com" title="Email: Webmaster">Webmaster</a></p>
-            </div>
-        </div>
-    </body>
-</html>
